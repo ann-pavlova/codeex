@@ -1,4 +1,4 @@
-# careex
+# codeex
 
 > A Vue.js project
 
